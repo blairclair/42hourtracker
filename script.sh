@@ -1,0 +1,1 @@
+curl -X POST --data "grant_type=client_credentials&client_id=482757aa0efb59d4717b2ca30da3e4339f4e2d9e5f6bb51ac11e9e32fdf9e08c&client_secret=5ec3a287afb4ee8fb43cb8cd80fc35be6b666546f7b2cd5db03966ffe3c76191" https://api.intra.42.fr/oauth/token
